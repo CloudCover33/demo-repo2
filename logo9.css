@@ -1,0 +1,9 @@
+@charset "UTF-8";
+@font-face { font-family:"Imprint MT Shadow";font-variant:normal;font-weight:normal;src:url("#FontID1") format(svg)}
+@font-face { font-family:"Colonna MT";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+.str0 {stroke:black;stroke-width:0.01;stroke-miterlimit:2.61313}
+.fil1 {fill:none}
+.fil0 {fill:black}
+.fil2 {fill:blue}
+.fnt1 {font-weight:normal;font-size:0.08px;font-family:'Imprint MT Shadow'}
+.fnt0 {font-weight:normal;font-size:0.12px;font-family:'Colonna MT'}
