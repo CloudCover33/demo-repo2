@@ -327,4 +327,21 @@ a{
 .item a:hover::after{
     color: #ccc;
 }
+p{
+    width: 100%;
+    position: absolute;
+    align-items: center;
+    text-align: center;
+    font-size: 30px; 
+    font-family: monospace; 
+}
+#footer{
+    width: 100%;
+    position: absolute;
+    align-items: center;
+    text-align: center;
+    bottom: 0;
+    padding: 10px 10px 10px 10px;
+    height: 40px;
+    }
     }
